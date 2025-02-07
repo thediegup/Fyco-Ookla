@@ -11,9 +11,9 @@ Actualmente se presenta el problema de que para poder ofrecer soluciones especia
 
 
 
-Observando la data que estamos obteniendo que se puede ver en [data_disponible](C:\Users\Usuario\OneDrive - fycotelecom.com\Escritorio\Documentos\Ookla_Fyco\Fyco-Ookla\extraccion_data_API\data_disponible.ipynb)
+Observando la data que estamos obteniendo que se puede ver en [data_disponible](https://github.com/thediegup/Fyco-Ookla/blob/main/extraccion_data_API/data_disponible.ipynb)
 
-La cual se obtiene de este script [script](C:\Users\Usuario\OneDrive - fycotelecom.com\Escritorio\Documentos\Ookla_Fyco\Fyco-Ookla\extraccion_data_API\prueba_jupyter.ipynb)
+La cual se obtiene de este script [script](https://github.com/thediegup/Fyco-Ookla/blob/main/extraccion_data_API/prueba_jupyter.ipynb)
 
 Estamos obteniendo los datos de **DSAR Report Field Definitions**
 
